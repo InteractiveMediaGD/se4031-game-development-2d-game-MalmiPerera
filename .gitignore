@@ -1,0 +1,22 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Unity meta files (keep these)
+# *.meta
+
+# VS / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
