@@ -477,7 +477,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: Re - Start
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1028,6 +1028,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flapForce: 6
   projectilePrefab: {fileID: 3579943191685833647, guid: d5fe02223a54c214caca767112ae1b5b, type: 3}
+  invincibleDuration: 1.5
 --- !u!58 &947322208
 CircleCollider2D:
   m_ObjectHideFlags: 0
